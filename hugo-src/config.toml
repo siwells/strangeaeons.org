@@ -1,4 +1,5 @@
 baseURL = "https://example.com"
+publishDir = "../docs"
 title = "Strange Aeons"
 theme = "m10c"
 paginate = 8
