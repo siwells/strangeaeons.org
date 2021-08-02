@@ -2,110 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Strange Aeons</title>
-    <link>https://www.strangeaeons.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Strange Aeons</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.strangeaeons.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hugo</title>
-      <link>https://www.strangeaeons.org/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.strangeaeons.org/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://www.strangeaeons.org/tags/themes/</link>
+      <link>/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.strangeaeons.org/tags/themes/</guid>
+      <guid>/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>configuration</title>
-      <link>https://www.strangeaeons.org/tags/configuration/</link>
+      <link>/tags/configuration/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.strangeaeons.org/tags/configuration/</guid>
+      <guid>/tags/configuration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://www.strangeaeons.org/tags/development/</link>
+      <link>/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.strangeaeons.org/tags/development/</guid>
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docs</title>
-      <link>https://www.strangeaeons.org/tags/docs/</link>
+      <link>/tags/docs/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.strangeaeons.org/tags/docs/</guid>
+      <guid>/tags/docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://www.strangeaeons.org/tags/go/</link>
+      <link>/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.strangeaeons.org/tags/go/</guid>
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://www.strangeaeons.org/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.strangeaeons.org/tags/golang/</guid>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://www.strangeaeons.org/tags/templates/</link>
+      <link>/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.strangeaeons.org/tags/templates/</guid>
+      <guid>/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial</title>
-      <link>https://www.strangeaeons.org/tags/tutorial/</link>
+      <link>/tags/tutorial/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.strangeaeons.org/tags/tutorial/</guid>
+      <guid>/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jekyll</title>
-      <link>https://www.strangeaeons.org/tags/jekyll/</link>
+      <link>/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.strangeaeons.org/tags/jekyll/</guid>
+      <guid>/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>https://www.strangeaeons.org/tags/test/</link>
+      <link>/tags/test/</link>
       <pubDate>Thu, 09 Jan 1012 00:00:00 +0000</pubDate>
       
-      <guid>https://www.strangeaeons.org/tags/test/</guid>
+      <guid>/tags/test/</guid>
       <description></description>
     </item>
     

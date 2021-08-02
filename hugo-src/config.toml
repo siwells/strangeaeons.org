@@ -1,4 +1,4 @@
-baseURL = "https://www.strangeaeons.org"
+#baseURL = "https://www.strangeaeons.org"
 publishDir = "../docs"
 title = "Strange Aeons"
 theme = "m10c"
