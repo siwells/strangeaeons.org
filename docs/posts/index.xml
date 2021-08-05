@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Strange Aeons</title>
+    <link>https://www.strangeaeons.org/posts/</link>
+    <description>Recent content in Posts on Strange Aeons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Aug 2021 12:13:53 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.strangeaeons.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Online Teaching Gear (or how I ended up with a mini TV Studio at home)</title>
+      <link>https://www.strangeaeons.org/posts/2021-08-05_online-teaching-gear/</link>
+      <pubDate>Thu, 05 Aug 2021 12:13:53 +0100</pubDate>
+      
+      <guid>https://www.strangeaeons.org/posts/2021-08-05_online-teaching-gear/</guid>
+      <description>The first lockdown came too late to really affect my teaching. I had a few ad hoc online seminars with smaller groups of students, but mostly I had time to think and prepare for September. Whilst this was a bit of a risk, there was always the chance that the viral situation was over by then and we were back to face-to-face teaching on campus, I knew that I also had a summer of research seminars, virtual conferences, and a new online-only degree programme was launching that I&amp;rsquo;d spent the last couple of years putting together.</description>
+    </item>
+    
+    <item>
+      <title>Online Teaching During COVID</title>
+      <link>https://www.strangeaeons.org/posts/2021-08-04_online-teaching/</link>
+      <pubDate>Wed, 04 Aug 2021 15:39:23 +0100</pubDate>
+      
+      <guid>https://www.strangeaeons.org/posts/2021-08-04_online-teaching/</guid>
+      <description>It&amp;rsquo;s difficult to avoid the subject of the virus and it&amp;rsquo;s myriad impact on our lives so I might as well address some of that up front. Lockdown and physical distancing greatly changed the way that my taught classes at Edinburgh Napier proceeded over the last three or four trimesters. It has been a process of change, fraught with challenges at every stage. The shifting ground, and developing expectations from all parties meant that there was rarely a time in the last eighteen months where a decision has been made without a tiny voice in the back of my mind telling my that it is only provisional.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://www.strangeaeons.org/posts/2021-08-04_first-post/</link>
+      <pubDate>Wed, 04 Aug 2021 15:31:41 +0100</pubDate>
+      
+      <guid>https://www.strangeaeons.org/posts/2021-08-04_first-post/</guid>
+      <description>Or perhaps that should be frist post. Just because. Who wants to mess with tradition?
+What will I talk about here? Oodles of things.
+Technology, Software Development, and programming will features heavily. Expect some discussion of language (natural and artificial), argument, and dialogue because of my research interests. There will also be some thoughts about teaching and learning, producitivty and getting things done.
+If I&amp;rsquo;m inclined I&amp;rsquo;ll also cover some of my other interests like synths (mostly Moog, Arturia, &amp;amp; Elektron gear), books &amp;amp; reading (mostly sci-fi with a focus on classic/golden age although I keep up with many of the newer genre writers as well), music (mostly jazz with a focus on Coltrane, Mingus, Monk, and Sanders), gardening, and making stuff (electronics, wood and metal work).</description>
+    </item>
+    
+  </channel>
+</rss>
