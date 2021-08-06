@@ -15,12 +15,12 @@
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Double Operator Tricks in JS"/>
 <meta name="twitter:description" content="Here are two, occasionally useful, Javascript tricks that I recently discovered. They both involve doubling up operators.
-!! Doubling up the standard negation operator &lsquo;!&rsquo;, into &lsquo;!!&rsquo; will turn most value into booleans. So if you quickly want to pass a numeric or string value into a function that actually requires a boolean value as input then this is one way to do that. For example:
+!! Doubling up the standard logical NOT/negation operator &lsquo;!&rsquo;, into &lsquo;!!&rsquo; will turn most value into booleans. So if you quickly want to pass a numeric or string value into a function that actually requires a boolean value as input then this is one way to do that. For example:
 &gt; !!true true &gt; !"/>
 
     <meta property="og:title" content="Double Operator Tricks in JS" />
 <meta property="og:description" content="Here are two, occasionally useful, Javascript tricks that I recently discovered. They both involve doubling up operators.
-!! Doubling up the standard negation operator &lsquo;!&rsquo;, into &lsquo;!!&rsquo; will turn most value into booleans. So if you quickly want to pass a numeric or string value into a function that actually requires a boolean value as input then this is one way to do that. For example:
+!! Doubling up the standard logical NOT/negation operator &lsquo;!&rsquo;, into &lsquo;!!&rsquo; will turn most value into booleans. So if you quickly want to pass a numeric or string value into a function that actually requires a boolean value as input then this is one way to do that. For example:
 &gt; !!true true &gt; !" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.strangeaeons.org/posts/2021-08-06_double/" />
@@ -87,7 +87,7 @@
     <div class="post-content">
       <p>Here are two, occasionally useful, Javascript tricks that I recently discovered. They both involve doubling up operators.</p>
 <h1 id="heading">!!</h1>
-<p>Doubling up the standard negation operator &lsquo;!&rsquo;, into &lsquo;!!&rsquo; will turn most value into booleans. So if you quickly want to pass a numeric or string value into a function that actually requires a boolean value as input then this is one way to do that. For example:</p>
+<p>Doubling up the standard logical NOT/negation operator &lsquo;!&rsquo;, into &lsquo;!!&rsquo; will turn most value into booleans. So if you quickly want to pass a numeric or string value into a function that actually requires a boolean value as input then this is one way to do that. For example:</p>
 <pre><code>&gt; !!true
 true
 &gt; !!false
@@ -113,7 +113,7 @@ true
 &gt; !!-12312321.23432
 true
 </code></pre><h1 id="heading-1">~~</h1>
-<p>Doubling up the bitwise NOT operator, &lsquo;~&rsquo;, into &lsquo;~~&rsquo; gives us a fast way to round down a value to a whole number. So it is essentially a hack that gives us a floor function but without having to explicitly call Math.floor(). Internally ~ is taking its operand and converting it to a 32-bit intger before inverting it. The effect is to round the value towards zero (so not technically a floor function which would give us the greatest integer less than or equal to the operand which would as this rounds towards zero on negative values whereas Math.floor() continues to round down). Another thing to consider is that the range of values that ~~ and Math.floor() operate over is different which could lead to a logical error in your code further down the road.</p>
+<p>Doubling up the bitwise NOT/negation operator, &lsquo;~&rsquo;, into &lsquo;~~&rsquo; gives us a fast way to round down a value to a whole number. So it is essentially a hack that gives us a floor function but without having to explicitly call Math.floor(). Internally ~ is taking its operand and converting it to a 32-bit intger before inverting it. The effect is to round the value towards zero (so not technically a floor function which would give us the greatest integer less than or equal to the operand which would as this rounds towards zero on negative values whereas Math.floor() continues to round down). Another thing to consider is that the range of values that ~~ and Math.floor() operate over is different which could lead to a logical error in your code further down the road.</p>
 <pre><code>&gt; ~~1
 1
 &gt; ~~0
