@@ -5,10 +5,19 @@
     <link>https://www.strangeaeons.org/posts/</link>
     <description>Recent content in Posts on Strange Aeons</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Aug 2021 16:56:43 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Sep 2021 13:20:43 +0100</lastBuildDate>
     
 	<atom:link href="https://www.strangeaeons.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interpreting Your Grades</title>
+      <link>https://www.strangeaeons.org/posts/2021-09-14_interpreting-grades/</link>
+      <pubDate>Tue, 14 Sep 2021 13:20:43 +0100</pubDate>
+      
+      <guid>https://www.strangeaeons.org/posts/2021-09-14_interpreting-grades/</guid>
+      <description>My institution has historically done well in attracting students from the EU and the rest of the world. More recently my focus on developing and teaching international online programmes means that the proportion of rest of the world students has been increasing (whilst the proportion of EU students has declined somewhat). As a result a good number of my students have little or no experience of the UK educational system and bring many expectations with them from their experiences everywhere else.</description>
+    </item>
     
     <item>
       <title>Double Operator Tricks in JS</title>
