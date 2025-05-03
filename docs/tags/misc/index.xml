@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>misc on Strange Aeons</title>
-    <link>https://www.strangeaeons.org/tags/misc/</link>
-    <description>Recent content in misc on Strange Aeons</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Misc on Strange Aeons</title>
+    <link>http://localhost:1313/tags/misc/</link>
+    <description>Recent content in Misc on Strange Aeons</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 04 Aug 2021 15:31:41 +0100</lastBuildDate>
-    
-	<atom:link href="https://www.strangeaeons.org/tags/misc/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://www.strangeaeons.org/posts/2021-08-04_first-post/</link>
+      <link>http://localhost:1313/posts/2021-08-04_first-post/</link>
       <pubDate>Wed, 04 Aug 2021 15:31:41 +0100</pubDate>
-      
-      <guid>https://www.strangeaeons.org/posts/2021-08-04_first-post/</guid>
-      <description>Or perhaps that should be frist post. Just because. Who wants to mess with tradition?
-What will I talk about here? Oodles of things.
-Technology, Software Development, and programming will features heavily. Expect some discussion of language (natural and artificial), argument, and dialogue because of my research interests. There will also be some thoughts about teaching and learning, producitivty and getting things done.
-If I&amp;rsquo;m inclined I&amp;rsquo;ll also cover some of my other interests like synths (mostly Moog, Arturia, &amp;amp; Elektron gear), books &amp;amp; reading (mostly sci-fi with a focus on classic/golden age although I keep up with many of the newer genre writers as well), music (mostly jazz with a focus on Coltrane, Mingus, Monk, and Sanders), gardening, and making stuff (electronics, wood and metal work).</description>
+      <guid>http://localhost:1313/posts/2021-08-04_first-post/</guid>
+      <description>Or perhaps that should be frist post. Just because. Who wants to mess with tradition?&#xA;What will I talk about here? Oodles of things.&#xA;Technology, Software Development, and programming will features heavily. Expect some discussion of language (natural and artificial), argument, and dialogue because of my research interests. There will also be some thoughts about teaching and learning, producitivty and getting things done.&#xA;If I&amp;rsquo;m inclined I&amp;rsquo;ll also cover some of my other interests like synths (mostly Moog, Arturia, &amp;amp; Elektron gear), books &amp;amp; reading (mostly sci-fi with a focus on classic/golden age although I keep up with many of the newer genre writers as well), music (mostly jazz with a focus on Coltrane, Mingus, Monk, and Sanders), gardening, and making stuff (electronics, wood and metal work).</description>
     </item>
-    
   </channel>
 </rss>

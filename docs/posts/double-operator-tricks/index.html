@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en-us">
-  <head>
+<html lang="en">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <title>Double Operator Tricks in JS // Strange Aeons</title>
     <link rel="shortcut icon" href="/favicon.ico" />
     <meta charset="utf-8" />
-    <meta name="generator" content="Hugo 0.74.3" />
+    <meta name="generator" content="Hugo 0.133.1">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="author" content="John Doe" />
     <meta name="description" content="" />
@@ -12,24 +12,33 @@
     <link rel="stylesheet" href="/css/main.min.4a7ec8660f9a44b08c4da97c5f2e31b1192df1d4d0322e65c0dbbc6ecb1b863f.css">
 
     
-    <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Double Operator Tricks in JS"/>
-<meta name="twitter:description" content="Here are two, occasionally useful, Javascript tricks that I recently discovered. They both involve doubling up operators.
-!! Doubling up the standard logical NOT/negation operator &lsquo;!&rsquo;, into &lsquo;!!&rsquo; will turn most values into booleans, i.e. cast to a boolean. So if you quickly want to pass a numeric or string value into a function that actually requires a boolean value as input then this is one way to do that. For example:"/>
+  
 
-    <meta property="og:title" content="Double Operator Tricks in JS" />
-<meta property="og:description" content="Here are two, occasionally useful, Javascript tricks that I recently discovered. They both involve doubling up operators.
-!! Doubling up the standard logical NOT/negation operator &lsquo;!&rsquo;, into &lsquo;!!&rsquo; will turn most values into booleans, i.e. cast to a boolean. So if you quickly want to pass a numeric or string value into a function that actually requires a boolean value as input then this is one way to do that. For example:" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.strangeaeons.org/posts/double-operator-tricks/" />
-<meta property="article:published_time" content="2021-08-06T16:56:43+01:00" />
-<meta property="article:modified_time" content="2021-08-06T16:56:43+01:00" />
+
+    
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Double Operator Tricks in JS">
+  <meta name="twitter:description" content="Here are two, occasionally useful, Javascript tricks that I recently discovered. They both involve doubling up operators.
+!! Doubling up the standard logical NOT/negation operator ‘!’, into ‘!!’ will turn most values into booleans, i.e. cast to a boolean. So if you quickly want to pass a numeric or string value into a function that actually requires a boolean value as input then this is one way to do that. For example:">
+
+    <meta property="og:url" content="http://localhost:1313/posts/double-operator-tricks/">
+  <meta property="og:site_name" content="Strange Aeons">
+  <meta property="og:title" content="Double Operator Tricks in JS">
+  <meta property="og:description" content="Here are two, occasionally useful, Javascript tricks that I recently discovered. They both involve doubling up operators.
+!! Doubling up the standard logical NOT/negation operator ‘!’, into ‘!!’ will turn most values into booleans, i.e. cast to a boolean. So if you quickly want to pass a numeric or string value into a function that actually requires a boolean value as input then this is one way to do that. For example:">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2021-08-06T16:56:43+01:00">
+    <meta property="article:modified_time" content="2021-08-06T16:56:43+01:00">
+    <meta property="article:tag" content="Coding">
+    <meta property="article:tag" content="Javascript">
 
 
   </head>
   <body>
     <header class="app-header">
-      <a href="https://www.strangeaeons.org"><img class="app-header-avatar" src="/avatar.png" alt="John Doe" /></a>
+      <a href="http://localhost:1313/"><img class="app-header-avatar" src="/avatar.png" alt="John Doe" /></a>
       <h1>Strange Aeons</h1>
       <nav class="app-header-menu">
           <a class="app-header-menu-item" href="/">Home</a>
@@ -77,8 +86,8 @@
   <title>tag</title>
   <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line>
 </svg>
-              <a class="tag" href="https://www.strangeaeons.org/tags/coding/">coding</a>
-              <a class="tag" href="https://www.strangeaeons.org/tags/javascript/">javascript</a>
+              <a class="tag" href="http://localhost:1313/tags/coding/">Coding</a>
+              <a class="tag" href="http://localhost:1313/tags/javascript/">Javascript</a>
         </div>
       </div>
     </header>
@@ -86,7 +95,7 @@
       <p>Here are two, occasionally useful, Javascript tricks that I recently discovered. They both involve doubling up operators.</p>
 <h1 id="heading">!!</h1>
 <p>Doubling up the standard logical NOT/negation operator &lsquo;!&rsquo;, into &lsquo;!!&rsquo; will turn most values into booleans, i.e. cast to a boolean. So if you quickly want to pass a numeric or string value into a function that actually requires a boolean value as input then this is one way to do that. For example:</p>
-<pre><code>&gt; !!true
+<pre tabindex="0"><code>&gt; !!true
 true
 &gt; !!false
 false
@@ -102,9 +111,9 @@ true
 true
 &gt; !!lskdjflkdsj
 Uncaught ReferenceError: lskdjflkdsj is not defined
-&gt; !!'fsd'
+&gt; !!&#39;fsd&#39;
 true
-&gt; !!&quot;dsfdsfds&quot;
+&gt; !!&#34;dsfdsfds&#34;
 true
 &gt; !!1.123213
 true
@@ -112,7 +121,7 @@ true
 true
 </code></pre><h1 id="heading-1">~~</h1>
 <p>Doubling up the bitwise NOT/negation operator, &lsquo;~&rsquo;, into &lsquo;~~&rsquo; gives us a fast way to round down a value to a whole number. So it is essentially a hack that gives us a floor function but without having to explicitly call Math.floor(). Internally ~ is taking its operand and converting it to a 32-bit intger before inverting it. The effect is to round the value towards zero (so not technically a floor function which would give us the greatest integer less than or equal to the operand which would as this rounds towards zero on negative values whereas Math.floor() continues to round down). Another thing to consider is that the range of values that ~~ and Math.floor() operate over is different which could lead to a logical error in your code further down the road.</p>
-<pre><code>&gt; ~~1
+<pre tabindex="0"><code>&gt; ~~1
 1
 &gt; ~~0
 0
@@ -126,7 +135,7 @@ true
 23423
 &gt; ~~23423.98238932
 23423
-&gt; ~~&quot;hello&quot;
+&gt; ~~&#34;hello&#34;
 0
 &gt; ~~null
 0
@@ -140,7 +149,6 @@ true
 1
 &gt; ~~false
 0
-
 </code></pre><p>This is a performance hack more than anything else so is useful in those circumstances where you want to eke out every last bit of performance (although if we&rsquo;re at that point in our JS coding journey then perhaps leaping to we assembly is a more sensible step?).</p>
 <p>That said, it could also provide a simpler way to get a &lsquo;floored&rsquo; value for clean and streamlined code, albeit at the expense of code clarity.</p>
 <h1 id="summary">Summary</h1>

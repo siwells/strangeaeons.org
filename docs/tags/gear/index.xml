@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gear on Strange Aeons</title>
-    <link>https://www.strangeaeons.org/tags/gear/</link>
-    <description>Recent content in gear on Strange Aeons</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Gear on Strange Aeons</title>
+    <link>http://localhost:1313/tags/gear/</link>
+    <description>Recent content in Gear on Strange Aeons</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 05 Aug 2021 12:13:53 +0100</lastBuildDate>
-    
-	<atom:link href="https://www.strangeaeons.org/tags/gear/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/gear/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Online Teaching Gear (or how I ended up with a mini TV Studio at home)</title>
-      <link>https://www.strangeaeons.org/posts/online-teaching-gear/</link>
+      <link>http://localhost:1313/posts/online-teaching-gear/</link>
       <pubDate>Thu, 05 Aug 2021 12:13:53 +0100</pubDate>
-      
-      <guid>https://www.strangeaeons.org/posts/online-teaching-gear/</guid>
+      <guid>http://localhost:1313/posts/online-teaching-gear/</guid>
       <description>The first lockdown came too late to really affect my teaching. I had a few ad hoc online seminars with smaller groups of students, but mostly I had time to think and prepare for September. Whilst this was a bit of a risk, there was always the chance that the viral situation was over by then and we were back to face-to-face teaching on campus, I knew that I also had a summer of research seminars, virtual conferences, and a new online-only degree programme was launching that I&amp;rsquo;d spent the last couple of years putting together.</description>
     </item>
-    
   </channel>
 </rss>

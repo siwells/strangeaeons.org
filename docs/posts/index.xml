@@ -2,71 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Strange Aeons</title>
-    <link>https://www.strangeaeons.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Strange Aeons</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Fri, 17 Sep 2021 16:10:13 +0100</lastBuildDate>
-    
-	<atom:link href="https://www.strangeaeons.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some Notes on Getting Started with Your Honours Project</title>
-      <link>https://www.strangeaeons.org/posts/honours-projects-miscellanea/</link>
+      <link>http://localhost:1313/posts/honours-projects-miscellanea/</link>
       <pubDate>Fri, 17 Sep 2021 16:10:13 +0100</pubDate>
-      
-      <guid>https://www.strangeaeons.org/posts/honours-projects-miscellanea/</guid>
+      <guid>http://localhost:1313/posts/honours-projects-miscellanea/</guid>
       <description>Between when I started lecturing back in 2006/07, and now, I&amp;rsquo;ve supervised upwards of a hundred undergraduate dissertations and upwards of fifty masters dissertations. So I think that I might have done this job for long enough to learn a thing or two. I am still determing exactly what that learning might include, but here are a bunch of important things to consider when doing your dissertation with me. It&amp;rsquo;s currently more of a brain dump than a considered set of guidance, and represents a bunch of things that we usually cover early in the supervision process, so it should be of some use:</description>
     </item>
-    
     <item>
       <title>Interpreting Your Grades</title>
-      <link>https://www.strangeaeons.org/posts/interpreting-your-grades/</link>
+      <link>http://localhost:1313/posts/interpreting-your-grades/</link>
       <pubDate>Tue, 14 Sep 2021 13:20:43 +0100</pubDate>
-      
-      <guid>https://www.strangeaeons.org/posts/interpreting-your-grades/</guid>
+      <guid>http://localhost:1313/posts/interpreting-your-grades/</guid>
       <description>My institution has historically done well in attracting students from the EU and the rest of the world. More recently my focus on developing and teaching international online programmes means that the proportion of rest of the world students has been increasing (whilst the proportion of EU students has declined somewhat). As a result a good number of my students have little or no experience of the UK educational system and bring many expectations with them from their experiences everywhere else.</description>
     </item>
-    
     <item>
       <title>Double Operator Tricks in JS</title>
-      <link>https://www.strangeaeons.org/posts/double-operator-tricks/</link>
+      <link>http://localhost:1313/posts/double-operator-tricks/</link>
       <pubDate>Fri, 06 Aug 2021 16:56:43 +0100</pubDate>
-      
-      <guid>https://www.strangeaeons.org/posts/double-operator-tricks/</guid>
-      <description>Here are two, occasionally useful, Javascript tricks that I recently discovered. They both involve doubling up operators.
-!! Doubling up the standard logical NOT/negation operator &amp;lsquo;!&amp;rsquo;, into &amp;lsquo;!!&amp;rsquo; will turn most values into booleans, i.e. cast to a boolean. So if you quickly want to pass a numeric or string value into a function that actually requires a boolean value as input then this is one way to do that. For example:</description>
+      <guid>http://localhost:1313/posts/double-operator-tricks/</guid>
+      <description>Here are two, occasionally useful, Javascript tricks that I recently discovered. They both involve doubling up operators.&#xA;!! Doubling up the standard logical NOT/negation operator &amp;lsquo;!&amp;rsquo;, into &amp;lsquo;!!&amp;rsquo; will turn most values into booleans, i.e. cast to a boolean. So if you quickly want to pass a numeric or string value into a function that actually requires a boolean value as input then this is one way to do that. For example:</description>
     </item>
-    
     <item>
       <title>Online Teaching Gear (or how I ended up with a mini TV Studio at home)</title>
-      <link>https://www.strangeaeons.org/posts/online-teaching-gear/</link>
+      <link>http://localhost:1313/posts/online-teaching-gear/</link>
       <pubDate>Thu, 05 Aug 2021 12:13:53 +0100</pubDate>
-      
-      <guid>https://www.strangeaeons.org/posts/online-teaching-gear/</guid>
+      <guid>http://localhost:1313/posts/online-teaching-gear/</guid>
       <description>The first lockdown came too late to really affect my teaching. I had a few ad hoc online seminars with smaller groups of students, but mostly I had time to think and prepare for September. Whilst this was a bit of a risk, there was always the chance that the viral situation was over by then and we were back to face-to-face teaching on campus, I knew that I also had a summer of research seminars, virtual conferences, and a new online-only degree programme was launching that I&amp;rsquo;d spent the last couple of years putting together.</description>
     </item>
-    
     <item>
       <title>Online Teaching During COVID</title>
-      <link>https://www.strangeaeons.org/posts/online-teaching-during-covid/</link>
+      <link>http://localhost:1313/posts/online-teaching-during-covid/</link>
       <pubDate>Wed, 04 Aug 2021 15:39:23 +0100</pubDate>
-      
-      <guid>https://www.strangeaeons.org/posts/online-teaching-during-covid/</guid>
+      <guid>http://localhost:1313/posts/online-teaching-during-covid/</guid>
       <description>It&amp;rsquo;s difficult to avoid the subject of the virus and it&amp;rsquo;s myriad impact on our lives so I might as well address some of that up front. Lockdown and physical distancing greatly changed the way that my taught classes at Edinburgh Napier proceeded over the last three or four trimesters. It has been a process of change, fraught with challenges at every stage. The shifting ground, and developing expectations from all parties meant that there was rarely a time in the last eighteen months where a decision has been made without a tiny voice in the back of my mind telling my that it is only provisional.</description>
     </item>
-    
     <item>
       <title>First Post</title>
-      <link>https://www.strangeaeons.org/posts/2021-08-04_first-post/</link>
+      <link>http://localhost:1313/posts/2021-08-04_first-post/</link>
       <pubDate>Wed, 04 Aug 2021 15:31:41 +0100</pubDate>
-      
-      <guid>https://www.strangeaeons.org/posts/2021-08-04_first-post/</guid>
-      <description>Or perhaps that should be frist post. Just because. Who wants to mess with tradition?
-What will I talk about here? Oodles of things.
-Technology, Software Development, and programming will features heavily. Expect some discussion of language (natural and artificial), argument, and dialogue because of my research interests. There will also be some thoughts about teaching and learning, producitivty and getting things done.
-If I&amp;rsquo;m inclined I&amp;rsquo;ll also cover some of my other interests like synths (mostly Moog, Arturia, &amp;amp; Elektron gear), books &amp;amp; reading (mostly sci-fi with a focus on classic/golden age although I keep up with many of the newer genre writers as well), music (mostly jazz with a focus on Coltrane, Mingus, Monk, and Sanders), gardening, and making stuff (electronics, wood and metal work).</description>
+      <guid>http://localhost:1313/posts/2021-08-04_first-post/</guid>
+      <description>Or perhaps that should be frist post. Just because. Who wants to mess with tradition?&#xA;What will I talk about here? Oodles of things.&#xA;Technology, Software Development, and programming will features heavily. Expect some discussion of language (natural and artificial), argument, and dialogue because of my research interests. There will also be some thoughts about teaching and learning, producitivty and getting things done.&#xA;If I&amp;rsquo;m inclined I&amp;rsquo;ll also cover some of my other interests like synths (mostly Moog, Arturia, &amp;amp; Elektron gear), books &amp;amp; reading (mostly sci-fi with a focus on classic/golden age although I keep up with many of the newer genre writers as well), music (mostly jazz with a focus on Coltrane, Mingus, Monk, and Sanders), gardening, and making stuff (electronics, wood and metal work).</description>
     </item>
-    
   </channel>
 </rss>
