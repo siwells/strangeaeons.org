@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Strange Aeons</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://www.strangeaeons.org/tags/</link>
     <description>Recent content in Tags on Strange Aeons</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Sep 2021 16:10:13 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 May 2025 11:58:00 +0100</lastBuildDate>
+    <atom:link href="https://www.strangeaeons.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dissertation</title>
-      <link>http://localhost:1313/tags/dissertation/</link>
-      <pubDate>Fri, 17 Sep 2021 16:10:13 +0100</pubDate>
-      <guid>http://localhost:1313/tags/dissertation/</guid>
+      <title>Teaching</title>
+      <link>https://www.strangeaeons.org/tags/teaching/</link>
+      <pubDate>Sat, 03 May 2025 11:58:00 +0100</pubDate>
+      <guid>https://www.strangeaeons.org/tags/teaching/</guid>
       <description></description>
     </item>
     <item>
-      <title>Teaching</title>
-      <link>http://localhost:1313/tags/teaching/</link>
+      <title>Dissertation</title>
+      <link>https://www.strangeaeons.org/tags/dissertation/</link>
       <pubDate>Fri, 17 Sep 2021 16:10:13 +0100</pubDate>
-      <guid>http://localhost:1313/tags/teaching/</guid>
+      <guid>https://www.strangeaeons.org/tags/dissertation/</guid>
       <description></description>
     </item>
     <item>
       <title>Coding</title>
-      <link>http://localhost:1313/tags/coding/</link>
+      <link>https://www.strangeaeons.org/tags/coding/</link>
       <pubDate>Fri, 06 Aug 2021 16:56:43 +0100</pubDate>
-      <guid>http://localhost:1313/tags/coding/</guid>
+      <guid>https://www.strangeaeons.org/tags/coding/</guid>
       <description></description>
     </item>
     <item>
       <title>Javascript</title>
-      <link>http://localhost:1313/tags/javascript/</link>
+      <link>https://www.strangeaeons.org/tags/javascript/</link>
       <pubDate>Fri, 06 Aug 2021 16:56:43 +0100</pubDate>
-      <guid>http://localhost:1313/tags/javascript/</guid>
+      <guid>https://www.strangeaeons.org/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>Gear</title>
-      <link>http://localhost:1313/tags/gear/</link>
+      <link>https://www.strangeaeons.org/tags/gear/</link>
       <pubDate>Thu, 05 Aug 2021 12:13:53 +0100</pubDate>
-      <guid>http://localhost:1313/tags/gear/</guid>
+      <guid>https://www.strangeaeons.org/tags/gear/</guid>
       <description></description>
     </item>
     <item>
       <title>Misc</title>
-      <link>http://localhost:1313/tags/misc/</link>
+      <link>https://www.strangeaeons.org/tags/misc/</link>
       <pubDate>Wed, 04 Aug 2021 15:31:41 +0100</pubDate>
-      <guid>http://localhost:1313/tags/misc/</guid>
+      <guid>https://www.strangeaeons.org/tags/misc/</guid>
       <description></description>
     </item>
   </channel>

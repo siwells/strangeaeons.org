@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dissertation on Strange Aeons</title>
-    <link>http://localhost:1313/tags/dissertation/</link>
+    <link>https://www.strangeaeons.org/tags/dissertation/</link>
     <description>Recent content in Dissertation on Strange Aeons</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 17 Sep 2021 16:10:13 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/dissertation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.strangeaeons.org/tags/dissertation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some Notes on Getting Started with Your Honours Project</title>
-      <link>http://localhost:1313/posts/honours-projects-miscellanea/</link>
+      <link>https://www.strangeaeons.org/posts/honours-projects-miscellanea/</link>
       <pubDate>Fri, 17 Sep 2021 16:10:13 +0100</pubDate>
-      <guid>http://localhost:1313/posts/honours-projects-miscellanea/</guid>
+      <guid>https://www.strangeaeons.org/posts/honours-projects-miscellanea/</guid>
       <description>Between when I started lecturing back in 2006/07, and now, I&amp;rsquo;ve supervised upwards of a hundred undergraduate dissertations and upwards of fifty masters dissertations. So I think that I might have done this job for long enough to learn a thing or two. I am still determing exactly what that learning might include, but here are a bunch of important things to consider when doing your dissertation with me. It&amp;rsquo;s currently more of a brain dump than a considered set of guidance, and represents a bunch of things that we usually cover early in the supervision process, so it should be of some use:</description>
     </item>
   </channel>

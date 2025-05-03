@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javascript on Strange Aeons</title>
-    <link>http://localhost:1313/tags/javascript/</link>
+    <link>https://www.strangeaeons.org/tags/javascript/</link>
     <description>Recent content in Javascript on Strange Aeons</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Aug 2021 16:56:43 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.strangeaeons.org/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Double Operator Tricks in JS</title>
-      <link>http://localhost:1313/posts/double-operator-tricks/</link>
+      <link>https://www.strangeaeons.org/posts/double-operator-tricks/</link>
       <pubDate>Fri, 06 Aug 2021 16:56:43 +0100</pubDate>
-      <guid>http://localhost:1313/posts/double-operator-tricks/</guid>
+      <guid>https://www.strangeaeons.org/posts/double-operator-tricks/</guid>
       <description>Here are two, occasionally useful, Javascript tricks that I recently discovered. They both involve doubling up operators.&#xA;!! Doubling up the standard logical NOT/negation operator &amp;lsquo;!&amp;rsquo;, into &amp;lsquo;!!&amp;rsquo; will turn most values into booleans, i.e. cast to a boolean. So if you quickly want to pass a numeric or string value into a function that actually requires a boolean value as input then this is one way to do that. For example:</description>
     </item>
   </channel>
