@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.strangeaeons.org/posts/</loc>
-    <lastmod>2025-05-03T11:58:00+01:00</lastmod>
+    <loc>https://www.strangeaeons.org/tags/argumentation/</loc>
+    <lastmod>2025-06-06T16:49:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.strangeaeons.org/posts/viva-exams/</loc>
-    <lastmod>2025-05-03T11:58:00+01:00</lastmod>
+    <loc>https://www.strangeaeons.org/posts/argumentation-quick-start/</loc>
+    <lastmod>2025-06-06T16:49:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.strangeaeons.org/posts/</loc>
+    <lastmod>2025-06-06T16:49:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.strangeaeons.org/tags/research/</loc>
+    <lastmod>2025-06-06T16:49:00+01:00</lastmod>
   </url><url>
     <loc>https://www.strangeaeons.org/</loc>
-    <lastmod>2025-05-03T11:58:00+01:00</lastmod>
+    <lastmod>2025-06-06T16:49:00+01:00</lastmod>
   </url><url>
     <loc>https://www.strangeaeons.org/tags/</loc>
+    <lastmod>2025-06-06T16:49:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.strangeaeons.org/posts/viva-exams/</loc>
     <lastmod>2025-05-03T11:58:00+01:00</lastmod>
   </url><url>
     <loc>https://www.strangeaeons.org/tags/teaching/</loc>
