@@ -3,7 +3,7 @@ baseurl = "https://www.strangeaeons.org"
 publishDir = "../docs"
 title = "Strange Aeons"
 theme = "m10c"
-paginate = 8
+paginate = 24
 
 [menu]
   [[menu.main]]
