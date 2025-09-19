@@ -6,8 +6,15 @@
     <description>Recent content in Teaching on Strange Aeons</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 May 2025 11:58:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 22:02:15 +0100</lastBuildDate>
     <atom:link href="https://www.strangeaeons.org/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some Thoughts on Honours Project Topics</title>
+      <link>https://www.strangeaeons.org/posts/honours-projects-ideas/</link>
+      <pubDate>Fri, 19 Sep 2025 22:02:15 +0100</pubDate>
+      <guid>https://www.strangeaeons.org/posts/honours-projects-ideas/</guid>
+      <description>Each year students invent many excellent software engineering projects that they hope will form the basis for their honours dissertation. The main problem with these ideas usually is that whilst they are great software engineering projects, they are quite often fairly weak as academic projects. The main cause of this weakness is the lack of connection to wider research, usually stemming from the lack of a clear research objective or questions to answer.</description>
+    </item>
     <item>
       <title>Some notes on your viva voce exam</title>
       <link>https://www.strangeaeons.org/posts/viva-exams/</link>
