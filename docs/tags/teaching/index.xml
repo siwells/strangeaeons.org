@@ -6,8 +6,15 @@
     <description>Recent content in Teaching on Strange Aeons</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Sep 2025 22:02:15 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 16:02:15 +0100</lastBuildDate>
     <atom:link href="https://www.strangeaeons.org/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some Thoughts on Code Commenting</title>
+      <link>https://www.strangeaeons.org/posts/code-commenting/</link>
+      <pubDate>Fri, 05 Dec 2025 16:02:15 +0100</pubDate>
+      <guid>https://www.strangeaeons.org/posts/code-commenting/</guid>
+      <description>Students regularly ask me about whether they should &amp;ldquo;comment their code&amp;rdquo;. Partly this is because they are taught to comment their code when they are learning their first programming language or going through their first programming course. The problem is that we don&amp;rsquo;t explain why we teach commenting in the way we do, when we should stop commenting in that way, and how our commenting behaviour should evolve as we become more proficient programmers.</description>
+    </item>
     <item>
       <title>Some Thoughts on Honours Project Topics</title>
       <link>https://www.strangeaeons.org/posts/honours-projects-ideas/</link>
