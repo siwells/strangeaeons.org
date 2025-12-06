@@ -1,0 +1,26 @@
++++
+title = "Some Thoughts on Code Commenting"
+date = 2025-12-05T16:02:15+01:00
+tags = ["teaching", "coding"]
+draft = false
++++
+
+Students regularly ask me about whether they should "comment their code". Partly this is because they are taught to comment their code when they are learning their first programming language or going through their first programming course. The problem is that we don't explain why we teach commenting in the way we do, when we should stop commenting in that way, and how our commenting behaviour should evolve as we become more proficient programmers. So here goes....
+
+When you're a beginner, getting you to comment your code has a number of benefits, particularly in an educational context. Firsly, it gets you to go through your code a second time, after you've written it, explaining what the code that you've written does. This is a form of active practise, making you reflect on what you've done and put it into words. We always say that if you can explain something then you probably understand it. This follows from that approach. It is also deliberate practise, the more often you carefully do something the more likely you'll develop a useful skill in that thing. So by going through you code a second time, in a careful and deliberate fashion, you are getting better at the practise of programming.
+
+In addition, if you're learning that specific language for the first time, then commenting everything is a way to prove, both to yourself and others, that you understand all of the syntax that you have used. Finally, the comments are a useful way to communicate to your teacher what you thought the code was doing in detail. This can help your teacher to provide better feedback on what you actually achieved versus what you were trying to achieve or thought you had achieved, and therefore helps you to better understand any mistakes you might have made.
+
+I personally think that you should stop commenting your code in the verbose, comment everything, style once you feel confident and proficient with programming in general, and also once you know the language that you are using. If you change language, or are dealing with a programming task in which you are less proficient or less confident, then you can always temporarily return to the earlier style as a form of active practise to help you improve more swiftly. 
+
+Notice however that I said "stop commenting your code in the verbose, comment everything, style" and not "stop commenting your code completely". You should continue to comment you code but your style should evolve and become more selective. Over time, comments becomes yet another thing to maintain, so keeping the volume of comments at a managable level, by being judicious, is not a bad idea. Remember that over time you will get better with the languages you use so will not need the code to explain itself in everyday language because you will understand the programming langauge itself. Similarly, anyone reading your code should be sufficiently proficient with the language to be able to read the code and understand what the code is actually doing. I think therefore that there are four main purposes to comments at this later stage in your developement as a programmer:
+
+1. If the code is clever or complex then comments can help to explain these complexities to the user of the code.A solution that feels neat or obvious to one person might not be so obvious to another. A solution that is optimised for time or space complexity might be based on a solution that is not immediately clear and understandable. Whilst we should aim to make code readable and make our solutions plain and straightforward, there is still a trade-off in terms of run-time considerations. So you must develop a professional judgement for when to further explain specific parts of your code.
+
+2. If the results of running the code is unclear and it is time consuming to gain a runtime understanding of the functionality then a comment to say, "we chose this method because the obvious way has drawbacks x and y but they aren't clear until you've run the code for x hours" can be really useful.
+
+3. If the code is particularly domain dependent and you want to explain how the code implements ideas from the problem domain which might not be immediately within the knowlege of the developer looking at the code.
+
+4. If there are alternative ways to implement the solution, and you've made a specific design decision to go one way rather than another. In this case, comments that explain your reasoning for your choice can be very useful to another engineer inspecting your code. Sometimes we just want to know why, and what else you considered, then we can agree with you and get on with other things.
+
+Note that many of these aspects are also covered by other aspects of your project documentation or software engineering methodology artefacts, commit messages, development/requirement tasks, or bug issues, but ultimately comments definitely have a place in your toolbox as a software developer, and are a key part of your communication and documentation strategy, but the when and how is slightly more nuanced than we are initially taught as beginner dvelopers.
