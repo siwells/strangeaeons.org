@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.strangeaeons.org/tags/admin/</loc>
+    <lastmod>2026-01-08T13:08:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.strangeaeons.org/posts/commenting-policy/</loc>
+    <lastmod>2026-01-08T13:08:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.strangeaeons.org/tags/cyberspace/</loc>
+    <lastmod>2026-01-08T13:08:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.strangeaeons.org/posts/</loc>
+    <lastmod>2026-01-08T13:08:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.strangeaeons.org/</loc>
+    <lastmod>2026-01-08T13:08:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.strangeaeons.org/tags/</loc>
+    <lastmod>2026-01-08T13:08:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.strangeaeons.org/tags/webdev/</loc>
+    <lastmod>2026-01-08T13:08:00+01:00</lastmod>
+  </url><url>
     <loc>https://www.strangeaeons.org/tags/coding/</loc>
     <lastmod>2025-12-05T16:02:15+01:00</lastmod>
   </url><url>
-    <loc>https://www.strangeaeons.org/posts/</loc>
-    <lastmod>2025-12-05T16:02:15+01:00</lastmod>
-  </url><url>
     <loc>https://www.strangeaeons.org/posts/code-commenting/</loc>
-    <lastmod>2025-12-05T16:02:15+01:00</lastmod>
-  </url><url>
-    <loc>https://www.strangeaeons.org/</loc>
-    <lastmod>2025-12-05T16:02:15+01:00</lastmod>
-  </url><url>
-    <loc>https://www.strangeaeons.org/tags/</loc>
     <lastmod>2025-12-05T16:02:15+01:00</lastmod>
   </url><url>
     <loc>https://www.strangeaeons.org/tags/teaching/</loc>
@@ -25,9 +37,6 @@
   </url><url>
     <loc>https://www.strangeaeons.org/posts/honours-projects-ideas/</loc>
     <lastmod>2025-09-19T22:02:15+01:00</lastmod>
-  </url><url>
-    <loc>https://www.strangeaeons.org/tags/cyberspace/</loc>
-    <lastmod>2025-07-24T11:58:00+01:00</lastmod>
   </url><url>
     <loc>https://www.strangeaeons.org/posts/irc/</loc>
     <lastmod>2025-07-24T11:58:00+01:00</lastmod>

@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Strange Aeons</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Dec 2025 16:02:15 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 13:08:00 +0100</lastBuildDate>
     <atom:link href="https://www.strangeaeons.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comments on Strange Aeons</title>
+      <link>https://www.strangeaeons.org/posts/commenting-policy/</link>
+      <pubDate>Thu, 08 Jan 2026 13:08:00 +0100</pubDate>
+      <guid>https://www.strangeaeons.org/posts/commenting-policy/</guid>
+      <description>This site has no facility for direct comments because I feel that easy, consequence-free, ill-considered, commentary and discussion has coarsened public discussion.&#xA;I think an element of the problem is a mixture of immediacy and anonymity, combined with a pathological tendency in many people towards reactionary anger. If people can react quickly, and in the moment, especially without consequence, then I think people are more likely to, in the best case, use perhaps ill-considered wording, and in the worst case, to fully indulge their worst inclinations.</description>
+    </item>
     <item>
       <title>Some Thoughts on Code Commenting</title>
       <link>https://www.strangeaeons.org/posts/code-commenting/</link>
