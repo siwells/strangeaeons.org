@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <title>Some Thoughts on Code Commenting // Strange Aeons</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.133.1">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="John Doe" />
+    <meta name="description" content="" />
+    
+    <link rel="stylesheet" href="/css/main.min.4a7ec8660f9a44b08c4da97c5f2e31b1192df1d4d0322e65c0dbbc6ecb1b863f.css">
+
+    
+  
+
+
+    
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Some Thoughts on Code Commenting">
+  <meta name="twitter:description" content="Students regularly ask me about whether they should “comment their code”. Partly this is because they are taught to comment their code when they are learning their first programming language or going through their first programming course. The problem is that we don’t explain why we teach commenting in the way we do, when we should stop commenting in that way, and how our commenting behaviour should evolve as we become more proficient programmers.">
+
+    <meta property="og:url" content="http://localhost:1313/posts/code-commenting-copy/">
+  <meta property="og:site_name" content="Strange Aeons">
+  <meta property="og:title" content="Some Thoughts on Code Commenting">
+  <meta property="og:description" content="Students regularly ask me about whether they should “comment their code”. Partly this is because they are taught to comment their code when they are learning their first programming language or going through their first programming course. The problem is that we don’t explain why we teach commenting in the way we do, when we should stop commenting in that way, and how our commenting behaviour should evolve as we become more proficient programmers.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-12-05T16:02:15+01:00">
+    <meta property="article:modified_time" content="2025-12-05T16:02:15+01:00">
+    <meta property="article:tag" content="Teaching">
+    <meta property="article:tag" content="Coding">
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="http://localhost:1313/"><img class="app-header-avatar" src="/avatar.png" alt="John Doe" /></a>
+      <h1>Strange Aeons</h1>
+      <nav class="app-header-menu">
+          <a class="app-header-menu-item" href="/">Home</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/tags/">Tags</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/about/">About</a>
+      </nav>
+      <p>A cabinet of curiosities</p>
+      <div class="app-header-social">
+        
+          <a href="https://github.com/siwells" target="_blank" rel="noreferrer noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>Github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg>
+          </a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Some Thoughts on Code Commenting</h1>
+      <div class="post-meta">
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Dec 5, 2025
+        </div>
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          5 min read
+        </div>
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tag">
+  <title>tag</title>
+  <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line>
+</svg>
+              <a class="tag" href="http://localhost:1313/tags/teaching/">Teaching</a>
+              <a class="tag" href="http://localhost:1313/tags/coding/">Coding</a>
+        </div>
+      </div>
+    </header>
+    <div class="post-content">
+      <p>Students regularly ask me about whether they should &ldquo;comment their code&rdquo;. Partly this is because they are taught to comment their code when they are learning their first programming language or going through their first programming course. The problem is that we don&rsquo;t explain why we teach commenting in the way we do, when we should stop commenting in that way, and how our commenting behaviour should evolve as we become more proficient programmers. So here goes&hellip;.</p>
+<p>When you&rsquo;re a beginner, getting you to comment your code has a number of benefits, particularly in an educational context. Firsly, it gets you to go through your code a second time, after you&rsquo;ve written it, explaining what the code that you&rsquo;ve written does. This is a form of active practise, making you reflect on what you&rsquo;ve done and put it into words. We always say that if you can explain something then you probably understand it. This follows from that approach. It is also deliberate practise, the more often you carefully do something the more likely you&rsquo;ll develop a useful skill in that thing. So by going through you code a second time, in a careful and deliberate fashion, you are getting better at the practise of programming.</p>
+<p>In addition, if you&rsquo;re learning that specific language for the first time, then commenting everything is a way to prove, both to yourself and others, that you understand all of the syntax that you have used. Finally, the comments are a useful way to communicate to your teacher what you thought the code was doing in detail. This can help your teacher to provide better feedback on what you actually achieved versus what you were trying to achieve or thought you had achieved, and therefore helps you to better understand any mistakes you might have made.</p>
+<p>I personally think that you should stop commenting your code in the verbose, comment everything, style once you feel confident and proficient with programming in general, and also once you know the language that you are using. If you change language, or are dealing with a programming task in which you are less proficient or less confident, then you can always temporarily return to the earlier style as a form of active practise to help you improve more swiftly.</p>
+<p>Notice however that I said &ldquo;stop commenting your code in the verbose, comment everything, style&rdquo; and not &ldquo;stop commenting your code completely&rdquo;. You should continue to comment you code but your style should evolve and become more selective. Over time, comments becomes yet another thing to maintain, so keeping the volume of comments at a managable level, by being judicious, is not a bad idea. Remember that over time you will get better with the languages you use so will not need the code to explain itself in everyday language because you will understand the programming langauge itself. Similarly, anyone reading your code should be sufficiently proficient with the language to be able to read the code and understand what the code is actually doing. I think therefore that there are four main purposes to comments at this later stage in your developement as a programmer:</p>
+<ol>
+<li>
+<p>If the code is clever or complex then comments can help to explain these complexities to the user of the code.A solution that feels neat or obvious to one person might not be so obvious to another. A solution that is optimised for time or space complexity might be based on a solution that is not immediately clear and understandable. Whilst we should aim to make code readable and make our solutions plain and straightforward, there is still a trade-off in terms of run-time considerations. So you must develop a professional judgement for when to further explain specific parts of your code.</p>
+</li>
+<li>
+<p>If the results of running the code is unclear and it is time consuming to gain a runtime understanding of the functionality then a comment to say, &ldquo;we chose this method because the obvious way has drawbacks x and y but they aren&rsquo;t clear until you&rsquo;ve run the code for x hours&rdquo; can be really useful.</p>
+</li>
+<li>
+<p>If the code is particularly domain dependent and you want to explain how the code implements ideas from the problem domain which might not be immediately within the knowlege of the developer looking at the code.</p>
+</li>
+<li>
+<p>If there are alternative ways to implement the solution, and you&rsquo;ve made a specific design decision to go one way rather than another. In this case, comments that explain your reasoning for your choice can be very useful to another engineer inspecting your code. Sometimes we just want to know why, and what else you considered, then we can agree with you and get on with other things.</p>
+</li>
+</ol>
+<p>Note that many of these aspects are also covered by other aspects of your project documentation or software engineering methodology artefacts, commit messages, development/requirement tasks, or bug issues, but ultimately comments definitely have a place in your toolbox as a software developer, and are a key part of your communication and documentation strategy, but the when and how is slightly more nuanced than we are initially taught as beginner dvelopers.</p>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>
