@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slashes on Strange Aeons</title>
+    <link>https://www.strangeaeons.org/tags/slashes/</link>
+    <description>Recent content in Slashes on Strange Aeons</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Jan 2026 17:48:11 +0000</lastBuildDate>
+    <atom:link href="https://www.strangeaeons.org/tags/slashes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slashes</title>
+      <link>https://www.strangeaeons.org/slashes/</link>
+      <pubDate>Mon, 12 Jan 2026 17:48:11 +0000</pubDate>
+      <guid>https://www.strangeaeons.org/slashes/</guid>
+      <description>The slash project is an attempt to build a set of commonly named and understood pages that sites can choose to implement, or not. As I already had an about page I&amp;rsquo;ve decided to include some of the other slash pages on this site.&#xA;One of the interesting aspects of slash pages is the idea that site have certain kinds of information at certain, commonly named, locations. Whilst this is perhaps not Semantic Web levels of automatically processable information, it should make it a little easier to discover authentic personal human websites amongst all of the corporate and AI slop.</description>
+    </item>
+    <item>
+      <title>Interests</title>
+      <link>https://www.strangeaeons.org/interests/</link>
+      <pubDate>Mon, 12 Jan 2026 17:31:19 +0000</pubDate>
+      <guid>https://www.strangeaeons.org/interests/</guid>
+      <description> Alcohol: Beer &amp;amp; Single Malt Artificial Intelligence Astronomy Books Cyberpunk Computer Science Electronics Food Forteana Gaming: Boardgames, Videogames, &amp;amp; Roleplaying Games Gardening Martial Arts Modular Synthesis Movies Music Programming Science Fiction TV Woodwork </description>
+    </item>
+    <item>
+      <title>Ai</title>
+      <link>https://www.strangeaeons.org/ai/</link>
+      <pubDate>Mon, 12 Jan 2026 17:13:07 +0000</pubDate>
+      <guid>https://www.strangeaeons.org/ai/</guid>
+      <description>This slash page is meant to cover how I use AI. But I don&amp;rsquo;t use AI. So instead it&amp;rsquo;s more of a little page about how we need to find things we want to do, then practise them and get good.&#xA;In that vein, despite being an AI researcher for a few decades now, I don&amp;rsquo;t use AI, at least not in the modern sense of using chat-interfaces to large language models.</description>
+    </item>
+  </channel>
+</rss>
