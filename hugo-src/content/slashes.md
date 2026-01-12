@@ -1,7 +1,7 @@
 +++
 title = "Slashes"
 date = 2026-01-12T17:48:11Z
-tags = ["slash"]
+tags = ["slashes"]
 draft = false
 +++
 

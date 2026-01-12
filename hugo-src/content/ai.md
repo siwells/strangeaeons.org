@@ -1,7 +1,7 @@
 +++
 title = "Ai"
 date = 2026-01-12T17:13:07Z
-tags = ["slash"]
+tags = ["slashes"]
 draft = false
 +++
 
