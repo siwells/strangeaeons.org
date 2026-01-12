@@ -1,13 +1,12 @@
 +++
-title = "Ai"
+title = "Artificial Intelligence"
 date = 2026-01-12T17:13:07Z
-tags = ["slashes"]
 draft = false
 +++
 
-This slash page is meant to cover how I use AI. But I don't use AI. So instead it's more of a little page about how we need to find things we want to do, then practise them and get good.
+This slash page is meant to cover how I use AI. But I don't use AI. Not really. I'll get to that in a moment. Instead this is more of a little page about how we need to find things we want to do, then practise them and get good., rather than letting the machines take away the things we enjoy.
 
-In that vein, despite being an AI researcher for a few decades now, I don't use AI, at least not in the modern sense of using chat-interfaces to large language models. The main reason for this is that most of the core things that LLMs are being used to do at the moment are things that I enjoy doing for myself.
+So, despite being an AI researcher for a few decades now, studying Knowledge Representation, Reasoning, and Communication, all under the auspices of "[Argumentation Theory](/posts/argumentation-quick-start/)" and "Computational Argumentation", I don't use AI. At least not in the modern sense of using chat-interfaces to large language models. The main reason for this is that most of the core things that LLMs are being used to do at the moment are things that I enjoy doing for myself.
 
 I enjoy writing, thinking, solving problems, coding, and building stuff. I know that some of these activities are now being performed by various ML tools, for example, LLMs generating text, or generating ideas, or suggesting solutions to problems, or generating code. Hell, connect the LLM to a 3D-printer and perhaps it'll also start building stuff. If I get a tool to do everything for me, or at least all of the parts that I find interesting and rewarding, what's left for me to do?
 
