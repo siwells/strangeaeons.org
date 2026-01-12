@@ -1,7 +1,6 @@
 +++
 title = "Interests"
 date = 2026-01-12T17:31:19Z
-tags = ["slashes"]
 draft = false
 +++
 
